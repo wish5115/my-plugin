@@ -1,0 +1,32 @@
+{
+    "name": "my-plugin",
+    "author": "Wilson",
+    "url": "https://github.com/wish5115/my-plugin",
+    "version": "0.0.1",
+    "minAppVersion": "3.0.12",
+    "disabledInPublish": false,
+    "backends": [
+        "all"
+    ],
+    "frontends": [
+        "all"
+    ],
+    "displayName": {
+        "default": "My Plugin",
+        "zh_CN": "我的插件"
+    },
+    "description": {
+        "default": "It is commonly used to implement some personalized features.",
+        "zh_CN": "常用来实现一些个性化的功能。"
+    },
+    "readme": {
+        "default": "README.md",
+        "zh_CN": "README-zh.md"
+    },
+    "keywords": [],
+    "funding": {
+        "custom": [
+            "https://b3logfile.com/file/2025/06/image-fEA9BRv.png?imageView2/2/interlace/1/format/webp"
+        ]
+    }
+}
